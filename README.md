@@ -1,14 +1,15 @@
-## This repository contains a Google Chrome extension that serves as an ad blocker. The extension helps users have a more streamlined browsing experience by blocking requests to specific advertising domains.
+This repository contains a Google Chrome extension that serves as an ad blocker. The extension helps users have a more streamlined browsing experience by blocking requests to specific advertising domains.
 
 # Installation
 To install and use the Chrome extension, follow these steps:
 
-# Clone this repository or download the source code.
-Open Google Chrome and go to the extensions page by entering chrome://extensions in the address bar.
-Enable the Developer mode by toggling the switch located at the top right corner of the page.
-Click on the "Load unpacked" button and select the directory where the extension files are located.
-The Chrome extension should now be installed and ready to use.
-Usage
+## Clone this repository or download the source code.
+1. Open Google Chrome and go to the extensions page by entering chrome://extensions in the address bar.
+2. Enable the Developer mode by toggling the switch located at the top right corner of the page.
+3. Click on the "Load unpacked" button and select the directory where the extension files are located.
+4. The Chrome extension should now be installed and ready to use.
+ 
+# Usage
 Once the extension is installed, it will run automatically in the background every time you open Google Chrome. It will block requests to known advertising domains, preventing ads from being displayed on web pages.
 
 # Customization
