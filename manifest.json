@@ -1,0 +1,15 @@
+{
+    "name": "Simple Adblocker",
+    "version": "1.0",
+    "description": "This is an Adblocker.",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "icons/ico_16x16.png",
+        "48": "icons/ico_48x48.png",
+        "128": "icons/ico_128x128.png"
+    },
+    "manifest_version": 2
+}
