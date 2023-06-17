@@ -1,4 +1,4 @@
-# This repository contains a Google Chrome extension that serves as an ad blocker. The extension helps users have a more streamlined browsing experience by blocking requests to specific advertising domains.
+## This repository contains a Google Chrome extension that serves as an ad blocker. The extension helps users have a more streamlined browsing experience by blocking requests to specific advertising domains.
 
 # Installation
 To install and use the Chrome extension, follow these steps:
